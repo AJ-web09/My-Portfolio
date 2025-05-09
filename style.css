@@ -239,6 +239,7 @@ img {
   content: '';
   position: absolute;
   width: 24px;
+  left: 0;
   height: 2px;
   background-color: var(--text-color);
   transition: var(--transition);
